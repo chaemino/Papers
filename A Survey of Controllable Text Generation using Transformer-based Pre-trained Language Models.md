@@ -11,3 +11,5 @@ Transformer를 기반의 사전학습 언어 모델을 사용하는 CTG 기술�
 - 그러나 심층 신경망의 해석 가능성이 낮으므로 이러한 방법의 **제어 가능성을 보장**해야 할 필요성이 있다.
 - 근 3-4년 간 다양한 유형의 제약이 필요할 수 있는 여러 CTG task를 대상으로 하는 각기 다른 접근 방식이 등장했다.
 - 이 논문에서는, 이 분야의 common task와 주요 접근 방식 그리고 평가 방법에 대하여 체계적인 비판점 검토를 제시한다.
+
+전체 논문 발표 자료: [Paper_240104_CTGSurvey_chaemin.pdf](https://github.com/chaemino/Papers/files/14219154/Paper_240104_CTGSurvey_chaemin.pdf)
