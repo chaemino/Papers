@@ -1,6 +1,5 @@
 # DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation
 
-_**"It’s like a photo booth, but once the subject is captured, it can be synthesized wherever your dreams take you..."**_
 
 | 제목 | DreamBooth: Fine Tuning Text-to- Image Diffusion Models for Subject- Driven Generation |
 |--|:--|
